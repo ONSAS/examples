@@ -1,0 +1,28 @@
+*/output/*
+*.mat
+*.vtk
+*.fig
+*.dat
+
+# editors and OSs
+*.DS_Store
+*.vscode
+*.asv
+octave-workspace
+
+# LaTeX outputs
+/*/*.aux
+/*/*.pdf
+/*/*.log
+/*/*.out
+/*/*.gz
+/*/*.toc
+/*/*.spl
+/*/*.xwm
+/*/*/*.aux
+/*/*/*.pdf
+/*/*/*.log
+/*/*/*.out
+/*/*/*.gz
+/*/*/*.toc
+/*/*/*.xwm
