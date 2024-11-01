@@ -26,6 +26,5 @@ Line Loop(1) = {1, 2, 3, 4};
 Surface(1) = {1};
 
 Physical Line("00_01_01") = {1};
-Physical Line("00_01_02") = {3};
 
-Physical Surface("01_02_00") = {1};
+Physical Surface("01_02_02") = {1};

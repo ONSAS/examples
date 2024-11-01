@@ -32,7 +32,7 @@ boundaryConds                  = struct() ;
 boundaryConds(1).imposDispDofs =  [ 1 2 3 4 5 6 ] ;
 boundaryConds(1).imposDispVals =  [ 0 0 0 0 0 0 ] ;
 %
-boundaryConds(2).loadsCoordSys = 'global' ;
+boundaryConds(2).loadsCoordSys = 'local' ;
 boundaryConds(2).loadsTimeFact = @(t) t  ;
 boundaryConds(2).loadsBaseVals = [0 0 0 0 -qz 0 ] ;
 %
